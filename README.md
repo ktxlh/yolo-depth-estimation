@@ -18,13 +18,3 @@ Object detection sample results
 Depth estimation
 
 ![](https://i.imgur.com/AbW8Eb3.png)
-
-
-## Progress
-- [x] Make our own YOLOv3 in tensorflow 2
-- [x] Deploy object detection in TFLite as an ios app
-- [x] Add depth estimation network
-- [ ] Deploy the new model with depth estimation version on ios
-- [ ] Benchmark the object detection model
-- [ ] Benchmark the depth estimation model
-
